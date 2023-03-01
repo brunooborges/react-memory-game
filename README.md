@@ -1,6 +1,9 @@
 # Jogo da Memória
 
-Jogo da Memória feito em REACT 
+Jogo da Memória feito em REACT
+
+Memory game made with REACT
+
 
 ## Available Scripts
 
