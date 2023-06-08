@@ -1,9 +1,10 @@
 # Jogo da Memória
 
+[Live Site](https://brunooborges.github.io/react-memory-game)
+
 Jogo da Memória feito em REACT
 
 Memory game made with REACT
-
 
 ## Available Scripts
 
